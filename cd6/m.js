@@ -1,0 +1,10 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "ab_a36_cd6_cd6_01.mp3";		
+f[2]	= "ab_a36_cd6_cd6_02.mp3";		
+f[3]	= "ab_a36_cd6_cd6_03.mp3";		
+f[4]	= "ab_a36_cd6_cd6_04.mp3";		
+f[5]	= "ab_a36_cd6_cd6_05.mp3";		
+f[6]	= "ab_a36_cd6_cd6_06.mp3";		
+f[7]	= "ab_a36_cd6_cd6_07.mp3";		
+f[8]	= "ab_a36_cd6_cd6_08.mp3";		
